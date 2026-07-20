@@ -1,0 +1,3 @@
+This repository contains scripts, workflows, and supporting resources for detecting and analyzing ground subsidence using multi-temporal LiDAR datasets and Geographic Information Systems (GIS). The project focuses on automated processing of high-resolution elevation data to identify subtle surface deformation that may indicate potential risks to linear infrastructure, particularly buried pipelines.
+
+The methodology integrates LiDAR-derived Digital Elevation Models (DEMs), shapefile-based spatial processing, and automated geospatial analysis to support objective, repeatable infrastructure monitoring.
